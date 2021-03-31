@@ -20,6 +20,18 @@ A Library is created in python which performs tasks like:
 
 ### Results
 
-> Original Image
+> Original Image 
 
 <img src="https://github.com/chaitravi-ce/GSoC_Code_Challenge/blob/main/brainMRI.png">
+
+> Image after Sobel Edge Detection
+
+<img src="https://github.com/chaitravi-ce/GSoC_Code_Challenge/blob/main/sobel.jpg">
+
+> Image after Canny Edge Detection
+
+<img src="https://github.com/chaitravi-ce/GSoC_Code_Challenge/blob/main/canny.jpg">
+
+> Image showing the shortest distance of a point from a point on edge
+
+<img height= "320" width="260" src="https://github.com/chaitravi-ce/GSoC_Code_Challenge/blob/main/LineDrawn.png">
